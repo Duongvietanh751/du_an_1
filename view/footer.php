@@ -6,9 +6,9 @@
                 <div class="row">
                     <div class="col-xl-2 col-md-4">
                         <!-- Footer Logo Start -->
-                        <div class="footer-logo">
-                            <a href="index.html"><img src="view/assets/images/logo.png" width="154" height="46" alt="Logo" /></a>
-                        </div>
+                        <!-- <div class="footer-logo">
+                            <a href="index.html"><img src="view/assets/images/logo1.png" width="154" height="46" alt="Logo" /></a>
+                        </div> -->
                         <!-- Footer Logo End -->
                     </div>
                     <div class="col-xl-5 col-md-8">
@@ -21,7 +21,7 @@
 
                                 <div class="contact-content">
                                     <h6 class="title">Call Us:</h6>
-                                    <p>00 123 456 789</p>
+                                    <p>0339634231</p>
                                 </div>
                             </div>
                             <div class="footer-payment">
@@ -157,9 +157,7 @@
             <div class="container">
                 <div class="copyright-text">
                     <p>
-                        &copy; 2023 <span> Furbar </span> Made with
-                        <i class="fa fa-heart" aria-hidden="true"></i> by
-                        <a href="#">codecarnival</a>
+                        &copy; 2023 <span> HNA </span> Made with
                     </p>
                 </div>
             </div>
